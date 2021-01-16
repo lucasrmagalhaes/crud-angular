@@ -67,8 +67,8 @@
 
 <p align="center">
     <img 
-        src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/backend/img/componenteAngular.jpg"
-        alt="Componente Angular"
+        src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/backend/img/inicializacaoDaAPP.jpg"
+        alt="Inicialização do APP"
     >
     <img 
         src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/backend/img/componenteAngular.jpg"
