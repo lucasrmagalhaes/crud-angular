@@ -75,6 +75,10 @@
         alt="O que é um Componente?"
     >
     <img 
+        src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/backend/img/TSHTMLCSS.jpg"
+        alt="O que é um Componente?"
+    >
+    <img 
         src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/backend/img/organizacaoUsandoModulo1.jpg"
         alt="Organização Usando Módulo"
     >
