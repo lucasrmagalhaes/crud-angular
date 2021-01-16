@@ -1,6 +1,6 @@
-<h1 aling="left">Angular CRUD</h1>
+<h1 align="left">Angular CRUD</h1>
 
-<h4 aling="center">Iniciando o Projeto</h4>
+<h4 align="center">Iniciando o Projeto</h4>
 
 <h5 align="left">Cria o package.json</h5>
 <pre>npm init -y</pre>
@@ -54,7 +54,7 @@
 
 <h5 align="left">Árvore de Componentes</h5>
 
-<p align="left">
+<p align="center">
     <img 
         src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/backend/arvoreDeComponentes.jpg"
         alt="Árvore de Componentes"
@@ -63,7 +63,36 @@
 
 <hr />
 
-<h5 aling="left">Anotações:</h5>
+<h5 align="left">Conceitos Essenciais</h5>
+
+<p align="center">
+    <img 
+        src="#"
+        alt="Componente Angular"
+    >
+    <img 
+        src="#"
+        alt="O que é um Componente?"
+    >
+    <img 
+        src="#"
+        alt="Organização Usando Módulo"
+    >
+    <img 
+        src="#"
+        alt="Organização Usando Módulo"
+    >
+    <img 
+        src="#"
+        alt="Anatomia do Módulo"
+    >
+        <img 
+        src="#"
+        alt="Organização Usando Módulo"
+    >
+</p>
+
+<h5 align="left">Anotações:</h5>
 
 <p align="left">
     Patch altera alguns atributos. <br />
