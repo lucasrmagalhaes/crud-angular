@@ -55,11 +55,10 @@
 <h5 align="left">Árvore de Componentes</h5>
 
 <p align="left">
-            MyAPP <br />
-    Header      |           Content <br />
-    Nav         | ContentTitle      ProductCrud<br />
-    Orientada a Objeto & Tipagem forte. <br />
-    Superset do JavaScript.
+    <img 
+        src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/backend/arvoreDeComponentes.jpg"
+        alt="Árvore de Componentes"
+    >
 </p>
 
 <hr />
