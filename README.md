@@ -92,6 +92,12 @@
     >
 </p>
 
+<h5 align="left">Criando APP com o Angular CLI</h5>
+
+<pre>npm i -g @angular/cli</pre>
+<pre>ng new frontend --minimal</pre>
+<pre>npm start</pre>
+
 <h5 align="left">Anotações:</h5>
 
 <p align="left">
