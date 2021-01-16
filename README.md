@@ -56,7 +56,7 @@
 
 <p align="center">
     <img 
-        src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/backend/arvoreDeComponentes.jpg"
+        src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/backend/img/arvoreDeComponentes.jpg"
         alt="Árvore de Componentes"
     >
 </p>
@@ -67,7 +67,7 @@
 
 <p align="center">
     <img 
-        src="#"
+        src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/backend/img/componenteAngular.jpg"
         alt="Componente Angular"
     >
     <img 
