@@ -71,23 +71,23 @@
         alt="Componente Angular"
     >
     <img 
-        src="#"
+        src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/backend/img/componenteAngular.jpg"
         alt="O que é um Componente?"
     >
     <img 
-        src="#"
+        src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/backend/img/organizacaoUsandoModulo1.jpg"
         alt="Organização Usando Módulo"
     >
     <img 
-        src="#"
+        src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/backend/img/organizacaoUsandoModulo2.jpg"
         alt="Organização Usando Módulo"
     >
     <img 
-        src="#"
+        src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/backend/img/anatomiaDoModulo.jpg"
         alt="Anatomia do Módulo"
     >
         <img 
-        src="#"
+        src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/backend/img/organizacaoUsandoModulo3.jpg"
         alt="Organização Usando Módulo"
     >
 </p>
