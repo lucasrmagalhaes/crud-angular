@@ -102,6 +102,12 @@
 <pre>ng new frontend --minimal</pre>
 <pre>npm start</pre>
 
+<hr />
+
+<h5 align="left">Instalação dos Componentes do Material</h5>
+
+<pre>ng add @angular/material</pre>
+
 <h5 align="left">Anotações:</h5>
 
 <p align="left">
