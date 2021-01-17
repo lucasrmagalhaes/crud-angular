@@ -132,6 +132,25 @@
 
 <hr />
 
+<h5 align="left">Elementos do Angular</h5>
+
+<p align="left">
+    Attribute Directives <br />
+    Altera a aparência e o comportamento de um elemento, componente ou outra diretiva.
+    <img src="" alt="Attribute Directives">
+    <img src="" alt="Attribute Directives">
+    <br />
+    Structural Directives <br />
+    Altera o layout adicionando e removendo elementos da DOM.
+    <img src="" alt="Structural Directives">
+    <img src="" alt="Property Binding">
+    <img src="" alt="Event Binding">
+    <img src="" alt="One Way Data Binding">
+    <img src="" alt="Two Way Data Binding">
+</p>
+
+<hr />
+
 <h5 align="left">Anotações:</h5>
 
 <p align="left">
