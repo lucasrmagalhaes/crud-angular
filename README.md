@@ -108,6 +108,16 @@
 
 <pre>ng add @angular/material</pre>
 
+<hr />
+
+<h5 align="left">Componente Cabeçalho</h5>
+
+<pre>ng g c components/template/header</pre>
+
+<h5 align="left">Componente Rodapé</h5>
+
+<pre>ng g c components/template/footer</pre>
+
 <h5 align="left">Anotações:</h5>
 
 <p align="left">
