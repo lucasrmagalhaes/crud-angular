@@ -137,16 +137,21 @@
 <p align="left">
     Attribute Directives <br />
     Altera a aparência e o comportamento de um elemento, componente ou outra diretiva.
-    <img src="" alt="Attribute Directives">
-    <img src="" alt="Attribute Directives">
+    <img src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/frontend/src/assets/img/attributeDirectivesDecorator.jpg" alt="Attribute Directives Decorator">
+    <img src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/frontend/src/assets/img/attributeDirectives.jpg" alt="Attribute Directives appRed">
     <br />
     Structural Directives <br />
     Altera o layout adicionando e removendo elementos da DOM.
-    <img src="" alt="Structural Directives">
-    <img src="" alt="Property Binding">
-    <img src="" alt="Event Binding">
-    <img src="" alt="One Way Data Binding">
-    <img src="" alt="Two Way Data Binding">
+    <img src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/frontend/src/assets/img/structuralDirectives.jpg" alt="Structural Directives">
+    <img src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/frontend/src/assets/img/propertyBinding.jpg" alt="Property Binding">
+    <img src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/frontend/src/assets/img/eventBinding.jpg" alt="Event Binding">
+    <img src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/frontend/src/assets/img/oneWayDataBinding.jpg" alt="One Way Data Binding">
+    <img src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/frontend/src/assets/img/twoWayDataBinding.jpg" alt="Two Way Data Binding">
+    <img src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/frontend/src/assets/img/angularRouter.jpg" alt="Angular Router">
+    <img src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/frontend/src/assets/img/angularRouteRouterOutlet.jpg" alt="Angular Router Router Outlet">
+    <img src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/frontend/src/assets/img/angularRouteProdutos.jpg" alt="Angular Router Produtos">
+    <img src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/frontend/src/assets/img/angularPipesComParametros.jpg" alt="Angular Pipes com Parametros">
+    <img src="https://github.com/lucasrmagalhaes/angular-crud/blob/main/frontend/src/assets/img/angularPipesChaining.jpg" alt="Angular Pipes Chaining">
 </p>
 
 <hr />
