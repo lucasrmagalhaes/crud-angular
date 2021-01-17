@@ -114,9 +114,23 @@
 
 <pre>ng g c components/template/header</pre>
 
+<hr />
+
 <h5 align="left">Componente Rodapé</h5>
 
 <pre>ng g c components/template/footer</pre>
+
+<hr />
+
+<h5 align="left">Componente Navegação</h5>
+
+<pre>ng g c components/template/nav</pre>
+
+<p align="left">
+    <a href="https://material.io/resources/icons/?style=baseline">Icons</a>
+</p>
+
+<hr />
 
 <h5 align="left">Anotações:</h5>
 
